@@ -1,3 +1,3 @@
 # lab-7-goon-squad
-josh Thying subtask 3
+josh Thyng subtask 3
 mason beale subtask 2 
